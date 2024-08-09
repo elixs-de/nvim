@@ -7,6 +7,8 @@ return {
       "shfmt",
       "flake8",
       "codelldb",
+      "cmakelang",
+      "cmakelint",
     },
   },
 }
