@@ -11,6 +11,7 @@ return {
       "cmakelint",
       "phpcs",
       "php-cs-fixer",
+      "js-debug-adapter",
     },
   },
 }
