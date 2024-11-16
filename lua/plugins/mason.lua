@@ -9,6 +9,8 @@ return {
       "codelldb",
       "cmakelang",
       "cmakelint",
+      "phpcs",
+      "php-cs-fixer",
     },
   },
 }

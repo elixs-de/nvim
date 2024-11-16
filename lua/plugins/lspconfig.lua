@@ -12,6 +12,8 @@ return {
   },
   opts = {
     servers = {
+      phpactor = {},
+      intelephense = {},
       -- tsserver will be automatically installed with mason and loaded with lspconfig
       tsserver = {},
       neocmake = {},

@@ -18,6 +18,7 @@ return {
       "yaml",
       "cpp",
       "cmake",
+      "php",
     },
   },
 }
