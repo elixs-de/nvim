@@ -19,6 +19,8 @@ return {
       "cpp",
       "cmake",
       "php",
+      "vue",
+      "css",
     },
   },
 }
